@@ -5,6 +5,8 @@
 
 The purpose of this web-based application is to post your class notes and get it reviewed by an AI to help you better your notes. 
 
+## Running the App
+
 ### `npm start`
 
 Runs the app in the development mode.\
